@@ -5,7 +5,7 @@ from fileresponse import fileresponse
 class Test15_DelCampaign():
     
         
-    name=Test1
+    name="Test1"
     url1="http://google.com"    
     
     #r1 = requests.auth.HTTPBasicAuth("madhusudan.vyas@snstech.com","cloud!23") 
